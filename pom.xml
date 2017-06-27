@@ -6,13 +6,14 @@
 	<groupId>com.logisticsystem</groupId>
 	<artifactId>logistic-system-back-end</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<name>logistic-system-back-end</name>
 	<description></description>
 
 	<modules>
 		<module>registration_service</module>
+		<module>driver_service</module>
 	</modules>
 
 	<parent>
